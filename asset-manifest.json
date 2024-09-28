@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nxtrenz-ecom/static/css/main.06ff89be.css",
+    "main.js": "/nxtrenz-ecom/static/js/main.b6bdb13b.js",
+    "index.html": "/nxtrenz-ecom/index.html",
+    "main.06ff89be.css.map": "/nxtrenz-ecom/static/css/main.06ff89be.css.map",
+    "main.b6bdb13b.js.map": "/nxtrenz-ecom/static/js/main.b6bdb13b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06ff89be.css",
+    "static/js/main.b6bdb13b.js"
+  ]
+}
